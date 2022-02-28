@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm lordtmk</h1>
-<h3 align="center">Addict to Malwares | Pythonist | Cannot be run in DOS mode Edit profile</h3>
+<h3 align="center">Addict to Malwares | Pythonist | Cannot be run in DOS mode </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordtmk&label=Profile%20views&color=0e75b6&style=flat" alt="lordtmk" /> </p>
 
